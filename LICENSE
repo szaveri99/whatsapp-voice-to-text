@@ -1,0 +1,6 @@
+### **Push Everything to GitHub**
+```bash
+git add .
+git commit -m "Initial project setup"
+git branch -M main
+git push origin main
